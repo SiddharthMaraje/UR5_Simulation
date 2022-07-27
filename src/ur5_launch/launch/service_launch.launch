@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="unpause_gazebo"       pkg="ur5-tcp-position-control" type="gazebo_unpause"       output="screen"/>
+
+
+</launch>

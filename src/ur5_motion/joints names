@@ -1,0 +1,59 @@
+<<< Names of all joints >>>>
+
+
+#### Joint - Shoulder_pan_joint
+
+Topic: /shoulder_pan_joint_position_controller/command
+Source file: shoulder_pan_motion.cpp
+Node Name: shoulder_pan_motion
+Executable: shoulder_pan_motion
+-----------------------------------------------------------
+#### Joint - Shoulder_lift_joint
+
+Topic: /shoulder_lift_joint_position_controller/command
+Source file: shoulder_lift_motion.cpp
+Node Name: shoulder_lift_motion
+Executable: shoulder_lift_motion
+-----------------------------------------------------------
+#### Joint - elbow_joint
+
+Topic: /elbow_joint_position_controller/command
+Source file: elbow_motion.cpp
+Node Name: elbow_motion
+Executable: elbow_motion
+-----------------------------------------------------------
+#### Joint - wrist_1_joint
+
+Topic: /wrist_1_joint_position_controller/command
+Source file: wrist_1_motion.cpp
+Node Name: wrist_1_motion
+Executable: wrist_1_motion
+-----------------------------------------------------------
+#### Joint - wrist_2_joint
+
+Topic: /wrist_2_joint_position_controller/command
+Source file: wrist_2_motion.cpp
+Node Name: wrist_2_motion
+Executable: wrist_2_motion
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+/wrist_1_joint_position_controller/command
+
+/wrist_3_joint_position_controller/command
+
+*************************************************
+
+
